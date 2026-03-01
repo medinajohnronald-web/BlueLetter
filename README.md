@@ -505,21 +505,49 @@ body::before {
 
       <span class="ltr-date">March 1, 2026</span>
       <span class="ltr-salut">To babi,</span>
-      <span class="ltr-body">  Babi… I know what you’re saying — that you’re giving up, that you want to end things. And deep down, I feel it too. I know this may very well be the end. I know I’ve hurt you more than once, and I know I’ve made you feel unconsidered, frustrated, exhausted, and alone. I take responsibility for all the time my words or actions caused you pain. I’m truly, genuinely sorry for everything... I'm truly sorry babi..
+      <span class="ltr-body">  
+      Babi,
 
-I know I’ve been stubborn, holding on tightly, clinging to you in ways that probably felt suffocating. I know that, and I am sorry. It’s only because I never wanted to lose you, and I wanted us to work so badly — even when I failed to fully meet what you needed. I know that’s selfish of me, and I own it completely. I’ve made mistakes, Babi, real ones. I’ve been thoughtless, careless, impatient, and sometimes blind to your heart.... I regret every time I hurt you — and I know there are things I will probably continue to regret for the rest of my life.
+babi can we fix this? I really don’t want to lose you.
 
-Through all of it — all the fights, all the misunderstandings, all the silences, all the moments I didn’t fully see you or consider your feelings — I want you to know I have always considered you. Maybe not always in the way you expected or needed, and I know that isn’t an excuse, but my care, my love, and the way I valued you have always been real. Every plan we made, every little dream, every vision of our future — it all mattered to me, and it still does. I’ve carried you in my thoughts, my heart, and my intentions every single day.
+But before anything else, I want to speak clearly and responsibly — not from panic, not from fear, and not just because I’m scared of losing you. I want to speak from awareness.
 
-I know you’ve felt unheard, unconsidered, and even invisible at times. I see it now more clearly than ever. I know those moments piled up, and that’s why you feel this way now. I regret every single one of them. I regret the times I wasn’t patient enough, the times I wasn’t present enough, the times I didn’t understand how deeply my actions affected you. I regret not always showing you, in ways you needed, that you were loved, valued, and seen. I will carry these regrets with me forever, Babi.
+I understand now that the core of everything wasn’t about my love for you. It was about how my actions made you feel unconsidered, unsafe, and secondary in moments where you should have felt prioritized. That is something I failed at. And I take full responsibility for that.
 
-And yet, even knowing all this, even acknowledging that I’ve failed you in ways I wish I could undo, I can’t stop loving you. I can’t give up on you. I refuse to let go of you in my heart, even if this is the last moment we share. I will always love you, choose you, and care for you — over and over again, no matter what. You can say that I will eventually move on, I will eventually find someone else, or I will eventually forget about you....but no babi, I've never moved on from the day you left me...my heart stayed with you all this time, waiting...longing, and loving you in ways I couldn't deny...in ways I couldn't forget..no matter how much I tried....and I've accepted that fact na in this lifetime... I will only love you for the rest of my life..
+You weren’t asking for grand gestures. You weren’t asking for perfection. You were asking to be considered — naturally, instinctively, without having to demand it. And instead, too many times, you had to carry your disappointment silently. That wasn’t fair to you.
 
-You are irreplaceable. You've always been the only person in heart, the person I’ve held onto, and the person I will continue to carry with me, no matter where life takes us.
-Even if you’ve decided na this is the end, it wouldn’t be for me. I will keep loving you, Babi, for all eternity, until this body fails me. I will always choose you, over and over again, in my heart, in my thoughts, and in everything I do. I will carry all our memories — the laughter, the tears, the dreams, the shared moments, the plans we made, and even the things I wish I could redo — with me, always.
-I want you to know that this isn’t an attempt to pressure you or ask you to change your mind. I only want you to feel the depth of my heart, the fullness of my love, and the sincerity of every regret, every intention, and every feeling I’ve had for you. I am truly sorry for all my mistakes, for every time I hurt you, and for every moment I wish I could relive to do better. But I will carry all of it with me, and it will always be because I love you.
+I regret every moment you felt unchosen.
+I regret every time you had to adjust when I should have been the one adjusting.
+I regret the times my explanations came before my empathy.
+I regret that my growth often came after damage instead of before it.
 
-I know this is a lot, and I know you may not respond na, and that’s okay. I just needed you to hear this — that you mattered to me beyond words, beyond mistakes, beyond all that’s happened. I will never stop loving you, Babi. I will never stop caring for you, never stop holding you in my heart. No matter what happens, I will always be here — loving you, remembering us, and treasuring every moment we shared. You are my everything, and I will carry you with me, always...
+You were patient. You gave chances I didn’t even realize you were giving. And I understand why you’re exhausted.
+
+I don’t want to offer empty promises. So here’s what I’m prepared to do differently — not as words, but as structure:
+
+• I will pause before acting in situations that involve other people or decisions that affect us, and actively ask myself, “How does this impact her?”
+• I will stop explaining first and start acknowledging first.
+• I will not wait to be called out before reflecting.
+• I will communicate proactively instead of defensively.
+• I will work on emotional regulation so that my fear or discomfort never overrides your safety again.
+
+This isn’t about “trying harder” for a few weeks. This is about changing the pattern that made you feel unsafe in the first place.
+
+I also understand something important: love alone isn’t enough. You already love me. I already love you. The missing piece has been consistent consideration and emotional security. That is what I want to rebuild — carefully, slowly, intentionally.
+
+I’m not asking you to forget what happened. I’m asking if we can rebuild with clearer standards, stronger communication, and real accountability. Not a reset that ignores the past — but a reset that learns from it.
+
+If we try again, it won’t be the same dynamic. It will require boundaries. It will require uncomfortable conversations. It will require measurable change, not emotional intensity.
+
+I believe what we have is worth fighting for — not because I’m afraid to be alone, but because I genuinely see future value in us when done right.
+
+If you truly feel you cannot continue, I will respect that. But if there is even a small space for rebuilding — slowly, intentionally — I am ready to meet you there with maturity and consistency.
+
+Not just words.
+
+With action.
+
+I love you. And I am willing to do this the right way.
       </span>
       <span class="ltr-proposal"> I love you, always have. always will🩵</span>
       <span class="ltr-sign">— from bab, yours always &amp; forever.</span>
